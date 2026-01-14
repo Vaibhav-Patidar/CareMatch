@@ -30,16 +30,19 @@ Logic: Rule-based matching engine<br>
 The backend is currently implemented in Python (Flask) due to hosting constraints during the hackathon.
 The architecture remains flexible for future migration to Java + Spring Boot.
 
-<h3>Impact:<br></h3>
-Reduces caregiver search time by 40–60%<br>
-Improves caregiver–family compatibility<br>
-Reduces stress for families with complex care needs<br>
-Creates fair opportunities for specialised caregivers<br>
-Open Innovation Alignment<br>
-Solves a real, underserved social problem<br>
-Designed for scalability and collaboration<br>
-High social impact with practical feasibility<br>
-Adaptable architecture for future integrations (hospitals, NGOs)<br>
+<h3>Impact:</h3>
+<ul>
+  <li>Reduces caregiver search time by 40–60%</li>
+  <li>Improves caregiver–family compatibility</li>
+  <li>Reduces stress for families with complex care needs</li>
+  <li>Creates fair opportunities for specialised caregivers</li>
+  <li>Aligned with open innovation principles</li>
+  <li>Addresses a real, underserved social problem</li>
+  <li>Designed for scalability and collaboration</li>
+  <li>Delivers high social impact with practical feasibility</li>
+  <li>Features an adaptable architecture for future integrations with hospitals and NGOs</li>
+</ul>
+
 <br>
 
 <h4>Team – Syntax Sorcery<br>
