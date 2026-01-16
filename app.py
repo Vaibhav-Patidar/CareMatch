@@ -47,7 +47,7 @@ def caregiver_newcomer():
     return render_template("caregiver-newbie.html")
 
 @app.route("/vaibhav_profile")
-def caregiver_profile():
+def vaibhav_profile():
     return render_template("profile.html")
 
 if __name__ == "__main__":
