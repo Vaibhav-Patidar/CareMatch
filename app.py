@@ -46,7 +46,7 @@ def caregiver_profile():
 def caregiver_newcomer():
     return render_template("caregiver-newbie.html")
 
-@app.route("/caregiver_profile")
+@app.route("/vaibhav_profile")
 def caregiver_profile():
     return render_template("profile.html")
 
